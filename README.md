@@ -12,8 +12,10 @@ Python版とJava版があります。
 ## 実行方法
 ### Python版：janken.py
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
-1. 以下を実行  
-python janlen.py
+1. 以下を実行 
+``` 
+    python janlen.py
+```
 ### Java版：Janken.java
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
 1. コンパイル  
