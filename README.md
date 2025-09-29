@@ -17,9 +17,9 @@ python janlen.py
 ### Java版：Janken.java
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
 1. コンパイル  
-    >javac Janken.java
+```javac Janken.java```
 1. 実行  
-    >java janken
+```java janken```
 
 ## 遊び方
 1. プログラムを実行すると、手の選択が表示されます。
